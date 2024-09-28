@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin George</h1>
 <h3 align="center">An enthusiast in Web Developement & Devops</h3>
-
-[![An image of @kevingeorge100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kevingeorge100)](https://holopin.io/@kevingeorge100)
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevingeorge100" alt="kevingeorge100" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development(Python Django)**
