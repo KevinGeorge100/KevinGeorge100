@@ -1,27 +1,34 @@
-<h1 align="center">Hi 👋, I'm Kevin George</h1>
-<h3 align="center">An enthusiast in Web Developement & Devops</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevingeorge100" alt="kevingeorge100" /></a> </p>
+# Kevin George
 
-- 🌱 I’m currently learning **Full Stack Web Development(Python Django)**
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKevinGeorge100%2FKevinGeorge100&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 📫 Reach me at **kegeorge5002@gmail.com**
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kwingeorge/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/kwin.george/)](https://www.instagram.com/kwin.george)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kevinjosegeorge@ieee.org)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/kevingeorge1)](https://linktr.ee/kevingeorge1)
+[![Github](https://img.shields.io/github/followers/KevinGeorge100?label=Follow&style=social)](https://github.com/KevinGeorge100)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kwingeorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kwingeorge" height="30" width="40" /></a>
-<a href="https://instagram.com/kwin.george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kwin.george" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/kevingeorgev27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevingeorgev27" height="30" width="40" /></a>
-</p>
+📍An enthusiast in 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 & 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🌱 Currently building my skills in Cloud Services 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevingeorge100&show_icons=true&locale=en&layout=compact" alt="kevingeorge100" /></p>
+ 📫 Reach me at: kevinjosegeorge@ieee.org
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevingeorge100&show_icons=true&locale=en" alt="kevingeorge100" /></p>
+### 🖥 Skills
+
+- Programming 
+- Cloud Computing 
+- DevOps
+- Cybersecurity 
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=social&logo=Python&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=social&logo=C#&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=social&logo=Java&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=social&logo=Kubernetes&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=social&logo=MySQL&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=social&logo=Django&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=Visual-Studio-Code&color=d82d0b)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinGeorge100&show_icons=true&locale=en&layout=compact" alt="KevinGeorge100" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=KevinGeorge100&" alt="KevinGeorge100" />
+</div>
 
 
-<!---
-KevinGeorge100/KevinGeorge100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
