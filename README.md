@@ -2,11 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKevinGeorge100%2FKevinGeorge100&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kwingeorge/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/kwin.george/)](https://www.instagram.com/kwin.george)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kevinjosegeorge@ieee.org)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/kevingeorge1)](https://linktr.ee/kevingeorge1)
-[![Github](https://img.shields.io/github/followers/KevinGeorge100?label=Follow&style=social)](https://github.com/KevinGeorge100)
+[![𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻
+(https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kwingeorge/)
+[![𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/kwin.george/)](https://www.instagram.com/kwin.george)
+[![𝗚𝗺𝗮𝗶𝗹](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kevinjosegeorge@ieee.org)
+[![𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗕𝗮𝗱𝗴𝗲](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/kevingeorge1)](https://linktr.ee/kevingeorge1)
+[![𝗚𝗶𝘁𝗵𝘂𝗯](https://img.shields.io/github/followers/KevinGeorge100?label=Follow&style=social)](https://github.com/KevinGeorge100)
 
 📍An enthusiast in 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 & 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆
 
