@@ -10,13 +10,15 @@
 
 📍An enthusiast in 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 & 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆
 
-🌱 Currently building my skills in Cloud Services 
+🌱 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
+• 𝗖𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 (Azure,AWS)
+• 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
 
  📫 Reach me at: kevinjosegeorge@ieee.org
 
-### 🖥 Skills
+### 📈 Skills
 
-- Programming 
+- Programming
 - Cloud Computing 
 - DevOps
 - Cybersecurity 
@@ -29,3 +31,7 @@
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=KevinGeorge100&" alt="KevinGeorge100" />
 </div>
 
+
+### 🚀 Let’s Collaborate
+
+I’m open to collaborating on projects, hackathons, and innovative software solutions. Let’s build something amazing!
