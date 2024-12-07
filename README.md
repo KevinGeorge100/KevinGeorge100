@@ -11,8 +11,7 @@
 📍An enthusiast in 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 & 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆
 
 🌱 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
-  • 𝗖𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 (Azure,AWS)
-  • 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗖𝗼𝗻𝗰𝗲𝗽𝘁𝘀
+  • 𝗖𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
 
  📫 Reach me at: kevinjosegeorge@ieee.org
 
@@ -21,7 +20,6 @@
 - Programming
 - Cloud Computing 
 - DevOps
-- Cybersecurity 
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=social&logo=Python&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=social&logo=C#&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=social&logo=Java&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=social&logo=Kubernetes&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=social&logo=MySQL&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=social&logo=Django&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=Visual-Studio-Code&color=d82d0b)
