@@ -8,7 +8,7 @@
 [![𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗕𝗮𝗱𝗴𝗲](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/kevingeorge1)](https://linktr.ee/kevingeorge1)
 [![𝗚𝗶𝘁𝗵𝘂𝗯](https://img.shields.io/github/followers/KevinGeorge100?label=Follow&style=social)](https://github.com/KevinGeorge100)
 
-📍An enthusiast in 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 & 𝗖𝘆𝗯𝗲𝗿𝘀𝗲𝗰𝘂𝗿𝗶𝘁𝘆
+📍An enthusiast in 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 & 𝗗𝗲𝘃𝗢𝗽𝘀
 
 🌱 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
   • 𝗖𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
