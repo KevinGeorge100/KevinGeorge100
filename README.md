@@ -1,35 +1,39 @@
-### 👋 I'm Kevin George
+<div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKevinGeorge100%2FKevinGeorge100&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+  <h1> 👋 Hey, I'm Kevin George</h1>
+  <h3><code>Technical Generalist | Product Ops • Growth Ops • Cloud Infrastructure</code></h3>
 
-[![𝗟𝗶𝗻𝗸𝗲𝗱𝗶𝗻](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kwingeorge/)
-[![𝗜𝗻𝘀𝘁𝗮𝗴𝗿𝗮𝗺 Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/kwin.george/)](https://www.instagram.com/kwin.george)
-[![𝗚𝗺𝗮𝗶𝗹](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kevinjosegeorge@ieee.org)
-[![𝗪𝗲𝗯𝘀𝗶𝘁𝗲 𝗕𝗮𝗱𝗴𝗲](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://linktr.ee/kevingeorge1)](https://linktr.ee/kevingeorge1)
-[![𝗚𝗶𝘁𝗵𝘂𝗯](https://img.shields.io/github/followers/KevinGeorge100?label=Follow&style=social)](https://github.com/KevinGeorge100)
+  <p>
+    <b>50% Tech-Literate Core + 50% Startup Execution</b><br>
+    <i>I bridge the gap between engineering systems, operations, and revenue growth.</i>
+  </p>
 
-📍An enthusiast in 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 & 𝗗𝗲𝘃𝗢𝗽𝘀
+  <p>
+    <a href="https://linkedin.com/in/kwingeorge"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:kevgeorgutty@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/KevinGeorge100"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 
-🌱 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴
-  • 𝗖𝗹𝗼𝘂𝗱 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀
+  <p>
+    <img src="https://img.shields.io/badge/Currently-Cloud%20%26%20DevOps%20Intern%20%40%20NeST%20Digital-00C853?style=flat-square&logo=amazon-aws&logoColor=white" alt="Currently" />
+    <img src="https://img.shields.io/badge/Status-Exploring%20Product%20%26%20Growth%20Ops-FF6D00?style=flat-square" alt="Status" />
+  </p>
 
- 📫 Reach me at: kevinjosegeorge@ieee.org
-
-### 📈 Skills
-
-- Programming
-- Cloud Computing 
-- DevOps
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=social&logo=Python&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-C%23-05122A?style=social&logo=C#&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=social&logo=Java&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=social&logo=Kubernetes&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=social&logo=MySQL&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=social&logo=Django&color=d82d0b) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=social&logo=Visual-Studio-Code&color=d82d0b)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KevinGeorge100&show_icons=true&locale=en&layout=compact" alt="KevinGeorge100" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=KevinGeorge100&" alt="KevinGeorge100" />
 </div>
 
+<hr />
 
-### 🚀 Let’s Collaborate
+## ⚡ The Execution Toolkit
 
-I’m open to collaborating on projects, hackathons, and innovative software solutions. Let’s build something amazing!
+I don't just write code or make decks—I use engineering logic (SQL, Docker, APIs) to streamline business funnels, optimize operational workflows, and scale startup revenue.
+
+```text
+       ┌─────────────────────────────────────────────────────────┐
+       │             KEVIN'S DUAL-EXECUTION ENGINE               │
+       ├───────────────────────────┬─────────────────────────────┤
+       │   50% STARTUP EXECUTION   │   50% TECH-LITERATE CORE    │
+       ├───────────────────────────┼─────────────────────────────┤
+       │ • Funnel Optimization (+15%)│ • AWS (EC2), Docker, K8s    │
+       │ • B2B Sales & Outbound Ops│ • Automated CI/CD Pipelines │
+       │ • Market Research & Growth│ • SQL & System Data Flow    │
+       └───────────────────────────┴─────────────────────────────┘
