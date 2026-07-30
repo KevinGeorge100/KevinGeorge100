@@ -1,73 +1,54 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00F2FE,100:4FACFE&text=KEVIN%20GEORGE&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Technical%20Generalist%20•%20Product%20Ops%20•%20Growth%20Ops%20•%20Cloud%20Infrastructure&descAlignY=58"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:00F2FE,100:4FACFE&text=KEVIN%20GEORGE&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Technical%20Generalist%20•%20Product%20Ops%20•%20Growth%20Ops%20•%20Cloud%20Infrastructure&descAlignY=58"/>
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=00F2FE&center=true&vCenter=true&width=900&lines=50%25+Tech-Literate+Core+%2B+50%25+Startup+Execution;Building+Systems+that+Scale+Products;Product+Operations+%7C+Growth+Operations;Cloud+Infrastructure+%7C+DevOps+Engineering;Engineering+Logic+Applied+to+Business+Growth)](https://git.io/typing-svg)
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1200&color=00F2FE&center=true&vCenter=true&width=900&lines=50%25+Tech-Literate+Core+%2B+50%25+Startup+Execution;Building+Systems+that+Scale+Products;Product+Operations+%7C+Growth+Operations;Cloud+Infrastructure+%7C+DevOps+Engineering;Engineering+Logic+Applied+to+Business+Growth" alt="Typing SVG"/>
+  </a>
 </div>
-
----
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kwingeorge)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevgeorgutty@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KevinGeorge100)
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=KevinGeorge100&style=for-the-badge&color=00F2FE)
-
+  <a href="https://linkedin.com/in/kwingeorge">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kevgeorgutty@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KevinGeorge100">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=KevinGeorge100&style=for-the-badge&color=00F2FE"/>
 </div>
 
 ---
 
-# 👋 Hello!
+## 👋 Hello, I'm Kevin George
 
-I'm **Kevin George**, a Technical Generalist who combines engineering thinking with startup execution.
+I’m a **Technical Generalist** operating at the intersection of **engineering systems, product execution, growth operations, and startup scale**.
 
-Instead of focusing purely on software engineering or business operations, I work where both intersect.
-
-I enjoy building systems that improve:
-
-- Product Growth
-- Revenue Operations
-- Developer Infrastructure
-- Automation
-- Customer Funnels
-- Cloud Platforms
-
----
-
-# ⚡ Executive Summary
-
-> *"Engineering logic applied directly to startup growth."*
+> **Engineering logic applied directly to startup growth.**
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-## 🚀 Startup Execution
+### 🚀 Startup Execution
 
 - Product Operations
 - Growth Operations
 - Revenue Pipelines
 - Funnel Optimization
-- Market Intelligence
 - Sales Operations
-- Competitor Research
+- Market Intelligence
+- Customer Success
 - User Acquisition
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
-
-## ☁️ Technical Core
+### ☁️ Technical Core
 
 - AWS EC2
 - Docker
@@ -79,332 +60,330 @@ I enjoy building systems that improve:
 - System Design
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# 🧠 Kevin's Dual Execution Engine
+## 🧠 Execution Model
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### Product Ops
+
+Funnel Optimization  
+User Onboarding  
+Revenue Growth  
+Customer Success  
+
+</td>
+<td width="34%" align="center">
+
+### Growth Ops
+
+Market Intelligence  
+Creator Acquisition  
+Sales Pipelines  
+Product Validation  
+
+</td>
+<td width="33%" align="center">
+
+### Cloud Engineering
+
+Docker  
+Kubernetes  
+AWS EC2  
+CI/CD Automation  
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ```text
-                 ┌────────────────────────────────────────────┐
-                 │         ENGINEERING + BUSINESS             │
-                 └────────────────────────────────────────────┘
-
-             PRODUCT OPS                      CLOUD ENGINEERING
-                    │                                  │
-                    ▼                                  ▼
-       Funnel Optimization                  Docker Containers
-       Revenue Growth                      Kubernetes
-       User Research                       AWS Infrastructure
-       Sales Operations                    APIs
-       Market Intelligence                 Automation
-
-                     ▼
-              Startup Scale
+Engineering Thinking + Business Execution
+                  ↓
+Systems, Funnels, Infrastructure, Automation
+                  ↓
+Startup Scale
 ```
 
----
-
-# 📊 Impact
-
-| Metric | Achievement |
-|---------|-------------|
-| 📈 +15% | Funnel Conversion Growth |
-| 💰 ₹50,000+ | Revenue Generated |
-| 👥 500+ | Event Participants |
-| 🏆 Top 17 | Kochi Hackathon Finalist |
+</div>
 
 ---
 
-# 💼 Experience
+## 📊 Impact Snapshot
 
-## 🚀 MakeMyPass
+<table>
+<tr>
+<td align="center" width="25%">
 
-### Product Operations
+### 📈 +15%
 
-✔ Funnel Optimization
+Funnel Conversion Growth
 
-✔ User Onboarding
+</td>
+<td align="center" width="25%">
 
-✔ Sales Operations
+### 💰 ₹50K+
 
-✔ Partnership Pipelines
+Revenue Generated
 
-✔ Revenue Operations
+</td>
+<td align="center" width="25%">
 
-✔ Customer Success
+### 👥 500+
+
+Event Participants
+
+</td>
+<td align="center" width="25%">
+
+### 🏆 Top 17
+
+Kochi Hackathon Finalist
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📷 SnapShare AI
+## 💼 Experience
 
-### Growth Operations
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🚀 MakeMyPass  
+**Product Operations**
+
+- Funnel Optimization
+- User Onboarding
+- Sales Operations
+- Partnership Pipelines
+- Revenue Operations
+- Customer Success
+
+</td>
+<td width="33%" valign="top">
+
+### 📷 SnapShare AI  
+**Growth Operations**
 
 - Creator Acquisition
-
 - Photographer Outreach
-
 - Customer Discovery
-
 - Feedback Loops
-
 - Product Validation
+- Go-to-Market Research
 
----
+</td>
+<td width="33%" valign="top">
 
-## ☁️ NeST Digital
-
-### Cloud & DevOps Intern
+### ☁️ NeST Digital  
+**Cloud & DevOps Intern**
 
 - Docker
-
 - Kubernetes
-
 - GitHub Actions
-
 - AWS EC2
-
 - Linux
-
 - CI/CD
 
----
-
-# 🏆 Leadership
-
-## IEEE Kerala Section
-
-Student Representative
-
-Former Vice Chair
-
-### Achievements
-
-- 10+ Technical Events
-
-- 500+ Participants
-
-- Student Leadership
-
-- Ecosystem Building
+</td>
+</tr>
+</table>
 
 ---
 
-# 🏅 Recognition
+## 🚀 Featured Projects
 
-🏆 Aspire Leader 2026
-
-🏆 IEEE Region 10 Ethics Champion
-
-🏆 Emerging Student Volunteer Award
-
-🏆 Kochi Hackathon Finalist
-
----
-
-# 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ## 💳 AI Subscription Intelligence
 
 ```text
-Gmail
-   │
-OAuth 2.0
-   │
-AI Receipt Parser
-   │
-Expense Ledger
-   │
-Burn Dashboard
-   │
-AES-256 Vault
+Gmail → OAuth 2.0 → AI Parser
+      → Expense Ledger → Burn Dashboard
+      → AES-256 Secure Vault
 ```
 
-### Highlights
+**Highlights**
 
-- Gmail Receipt Parsing
-
-- OAuth Authentication
-
-- AI Categorization
-
-- Expense Analytics
-
-- Burn Rate Dashboard
-
-- Secure Storage
+- Gmail receipt parsing
+- OAuth authentication
+- AI categorization
+- Expense analytics
+- Burn rate dashboard
+- Secure storage
 
 **Stack**
 
-Python • OAuth • AES-256 • REST APIs • Vercel Cron
+`Python` `OAuth` `AES-256` `REST APIs` `Vercel Cron`
 
----
+</td>
+<td width="50%" valign="top">
 
 ## ☁️ Kubernetes Deployment Platform
 
 ```text
-Git Push
-
-↓
-
-GitHub Actions
-
-↓
-
-Docker Build
-
-↓
-
-Docker Registry
-
-↓
-
-Kubernetes
-
-↓
-
-3 Replica Deployment
-
-↓
-
-Self Healing Cluster
+Git Push → GitHub Actions → Docker Build
+         → Docker Registry → Kubernetes
+         → 3 Replica Self-Healing Deployment
 ```
 
-### Highlights
+**Highlights**
 
-- CI/CD
+- Automated CI/CD pipeline
+- Dockerized application workflow
+- Kubernetes deployment
+- GitHub Actions automation
+- AWS EC2 hosting
+- Linux-based infrastructure
 
-- Docker
+**Stack**
 
-- Kubernetes
+`Docker` `Kubernetes` `GitHub Actions` `AWS EC2` `Linux`
 
-- GitHub Actions
-
-- AWS EC2
-
-- Linux
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Programming
+<table>
+<tr>
+<td align="center" width="50%">
 
-<p>
+### Programming
 
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js"/>
 
-</p>
+</td>
+<td align="center" width="50%">
 
----
-
-## Cloud
-
-<p>
+### Cloud & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux"/>
 
-</p>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
----
-
-## Backend
-
-<p>
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql"/>
 
-</p>
+</td>
+<td align="center" width="50%">
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,vscode,figma,postman"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## DevOps
+## 🏆 Leadership & Recognition
 
-<p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,bash"/>
+### IEEE Kerala Section
 
-</p>
+- Student Representative
+- Former Vice Chair
+- Led 10+ technical events
+- Built student communities
+- Impacted 500+ participants
+
+</td>
+<td width="50%" valign="top">
+
+### Recognition
+
+- 🏆 Aspire Leader 2026
+- 🏆 IEEE Region 10 Ethics Champion
+- 🏆 Emerging Student Volunteer Award
+- 🏆 Kochi Hackathon Finalist
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=vscode,figma,postman"/>
-
-</p>
-
----
-
-# 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KevinGeorge100&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=KevinGeorge100&theme=tokyonight&hide_border=true"/>
+</div>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KevinGeorge100&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=KevinGeorge100&theme=tokyonight&hide_border=true"/>
-
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinGeorge100&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
+## 📊 Contribution Activity
+
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinGeorge100&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=KevinGeorge100&theme=react-dark&hide_border=true"/>
 </div>
 
 ---
 
-# 📊 Contribution Graph
+## 🐍 Contribution Snake
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinGeorge100&theme=react-dark&hide_border=true"/>
-
----
-
-# 🐍 Contribution Snake
-
-> Enable using GitHub Actions
-
-![Snake animation](https://raw.githubusercontent.com/KevinGeorge100/KevinGeorge100/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KevinGeorge100/KevinGeorge100/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-- Product Operations
-
-- Growth Operations
-
-- Cloud Infrastructure
-
-- DevOps
-
-- AI Automation
-
-- Startup Systems
-
----
-
-# 🤝 Let's Connect
-
-I'm actively looking for opportunities in
-
-- Product Operations
-
-- Growth Operations
-
-- Founder's Office
-
-- Technical Program Management
-
-- Cloud & DevOps
+<table>
+<tr>
+<td align="center" width="16.6%">Product Ops</td>
+<td align="center" width="16.6%">Growth Ops</td>
+<td align="center" width="16.6%">Cloud Infrastructure</td>
+<td align="center" width="16.6%">DevOps</td>
+<td align="center" width="16.6%">AI Automation</td>
+<td align="center" width="16.6%">Startup Systems</td>
+</tr>
+</table>
 
 ---
+
+## 🤝 Let's Connect
+
+I’m actively looking for opportunities in:
+
+<table>
+<tr>
+<td align="center">Product Operations</td>
+<td align="center">Growth Operations</td>
+<td align="center">Founder's Office</td>
+<td align="center">Technical Program Management</td>
+<td align="center">Cloud & DevOps</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -412,4 +391,6 @@ I'm actively looking for opportunities in
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F2FE,100:4FACFE"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00F2FE,100:4FACFE"/>
+</div>
